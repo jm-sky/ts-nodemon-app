@@ -12,7 +12,7 @@ class Db {
   private db: LowSync<DbSchema>;
 
   constructor() {
-    this.db = JSONFileSyncPreset<DbSchema>('db.json', defaultData);
+    this.db = JSONFileSyncPreset<DbSchema>('db/db.json', defaultData);
   }
 
   getData(): DbSchema {
