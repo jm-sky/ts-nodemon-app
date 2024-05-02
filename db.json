@@ -1,0 +1,66 @@
+{
+  "messages": {
+    "demo": [
+      {
+        "id": "eaea32ad-f681-4e6f-9d91-0266539ba5d7",
+        "message": "Hello, whats Your name?",
+        "date": "12:54:56"
+      },
+      {
+        "id": "3a7f602a-c190-46ac-8edf-18768ece3a66",
+        "message": "My name is Micke, and You are?",
+        "date": "12:54:51"
+      },
+      {
+        "id": "dbda9700-cf0a-43a1-9213-16e2286ecfae",
+        "message": "Hello, whats Your name?",
+        "date": "12:54:46"
+      },
+      {
+        "id": "63ae5687-b201-46cd-a27f-030da3f8d9d6",
+        "message": "My name is Micke, and You are?",
+        "date": "12:54:41"
+      },
+      {
+        "id": "6f268e6b-592e-4a9a-911e-ebeccca79818",
+        "message": "My name is Micke, and You are?",
+        "date": "12:54:36"
+      },
+      {
+        "id": "a335e59f-accf-4d5d-b8c0-82e56e85b19c",
+        "message": "My name is Micke, and You are?",
+        "date": "12:48:06"
+      },
+      {
+        "id": "a2a79f32-6833-4aa4-b50b-6b74f4539966",
+        "message": "Hello, whats Your name?",
+        "date": "12:48:01"
+      },
+      {
+        "id": "c7c8d0de-6e41-4d08-b104-b2f527e37df3",
+        "message": "My name is Micke, and You are?",
+        "date": "12:47:56"
+      },
+      {
+        "id": "bf57ba12-3852-493d-98b4-1f2fc05d7a14",
+        "message": "My name is Micke, and You are?",
+        "date": "12:46:56"
+      },
+      {
+        "id": "056a2372-9c32-492f-a1f5-d78282e3f166",
+        "message": "My name is Micke, and You are?",
+        "date": "12:46:50"
+      },
+      {
+        "id": "a9881076-935f-4dfb-b6a6-e7dffd5c5f24",
+        "message": "My name is Micke, and You are?",
+        "date": "12:43:06"
+      },
+      {
+        "id": "c35b91f0-08a3-42ea-82b2-feba29947ba0",
+        "message": "My name is Micke, and You are?",
+        "date": "12:43:00"
+      }
+    ]
+  }
+}

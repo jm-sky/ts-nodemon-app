@@ -1,7 +1,3 @@
-import 'module-alias/register';
-import { Greeter } from '@/greeter';
-import { config } from '@/config';
+import { app } from './src/app.js';
 
-const greeter = new Greeter(config);
-
-setInterval(() => greeter.greet(), config.interval);
+app.start();
