@@ -1,0 +1,28 @@
+{
+  "name": "ts-app",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "_moduleAliases": {
+    "@": "src"
+  },
+  "scripts": {
+    "start": "npx nodemon ./index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint . --ext .ts"
+  },
+  "author": "Jan Madeyski",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^7.8.0",
+    "@typescript-eslint/parser": "^7.8.0",
+    "dotenv": "^16.4.5",
+    "eslint": "^8.57.0",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "lowdb": "^7.0.1",
+    "module-alias": "^2.2.3"
+  }
+}
